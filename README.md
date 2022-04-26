@@ -11,7 +11,7 @@
 - DJI PSDK to meet the requirements of those building solutions for
 various industrial applications.
 - Adjust the speed, smooth and direction control of each axis. 
-- Adjust Data Transmission Rates of each message.
+- Adjust the stifness, power, imu,... of each gimbal. 
 
 ## Detect errors when initialization.
 - Gimbal will dectect automatically when initialization and pop-up error on the
