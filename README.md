@@ -1,4 +1,4 @@
-# PixyU-Firmware
+# PixySM-Firmware
 
 # What's new?
 
